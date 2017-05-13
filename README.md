@@ -6,6 +6,8 @@
 [![License](https://img.shields.io/cocoapods/l/MGRelativeKit.svg?style=flat)](http://cocoapods.org/pods/MGRelativeKit)
 [![Platform](https://img.shields.io/cocoapods/p/MGRelativeKit.svg?style=flat)](http://cocoapods.org/pods/MGRelativeKit)
 
+Simple and easy API that converts absolute to relative layout without autolayout.
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
