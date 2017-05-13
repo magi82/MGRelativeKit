@@ -21,7 +21,13 @@ MGRelativeKit is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "MGRelativeKit"
+pod 'MGRelativeKit', '~> 0.1.2'
+```
+
+Carthage:
+
+```ruby
+github "magi82/MGRelativeKit" ~> 0.1.2
 ```
 
 ## Author
