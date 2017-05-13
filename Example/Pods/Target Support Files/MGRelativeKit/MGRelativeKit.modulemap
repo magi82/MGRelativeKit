@@ -1,0 +1,6 @@
+framework module MGRelativeKit {
+  umbrella header "MGRelativeKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

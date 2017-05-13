@@ -1,0 +1,16 @@
+PODS:
+  - MGRelativeKit (0.1.0)
+
+DEPENDENCIES:
+  - MGRelativeKit (from `../`)
+
+EXTERNAL SOURCES:
+  MGRelativeKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MGRelativeKit: 27dd2909968c123c7de4f4489df209b741c823b5
+
+PODFILE CHECKSUM: 378e2b7a1e4077fb7897dd352d3c4fe3c7f9e80a
+
+COCOAPODS: 1.2.1
