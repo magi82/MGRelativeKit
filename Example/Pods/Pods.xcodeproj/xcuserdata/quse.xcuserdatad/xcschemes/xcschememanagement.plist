@@ -4,10 +4,10 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>MGRelativeKit.xcscheme_^#shared#^_</key>
+		<key>MGRelativeKit.xcscheme</key>
 		<dict>
 			<key>isShown</key>
-			<true/>
+			<false/>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
