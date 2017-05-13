@@ -10,12 +10,12 @@
 		D851BCA11EC75B23006C1132 /* MGRelativeKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D851BC971EC75B23006C1132 /* MGRelativeKit.framework */; };
 		D851BCA61EC75B23006C1132 /* MGRelativeKitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D851BCA51EC75B23006C1132 /* MGRelativeKitTests.swift */; };
 		D851BCA81EC75B23006C1132 /* MGRelativeKit.h in Headers */ = {isa = PBXBuildFile; fileRef = D851BC9A1EC75B23006C1132 /* MGRelativeKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D851BCC71EC75C22006C1132 /* RelativeLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = D851BCC11EC75C22006C1132 /* RelativeLayout.swift */; };
-		D851BCC81EC75C22006C1132 /* RelativeLayout+align.swift in Sources */ = {isa = PBXBuildFile; fileRef = D851BCC21EC75C22006C1132 /* RelativeLayout+align.swift */; };
-		D851BCC91EC75C22006C1132 /* RelativeLayout+center.swift in Sources */ = {isa = PBXBuildFile; fileRef = D851BCC31EC75C22006C1132 /* RelativeLayout+center.swift */; };
-		D851BCCA1EC75C22006C1132 /* RelativeLayout+of.swift in Sources */ = {isa = PBXBuildFile; fileRef = D851BCC41EC75C22006C1132 /* RelativeLayout+of.swift */; };
-		D851BCCB1EC75C22006C1132 /* RelativeLayout+size.swift in Sources */ = {isa = PBXBuildFile; fileRef = D851BCC51EC75C22006C1132 /* RelativeLayout+size.swift */; };
-		D851BCCC1EC75C22006C1132 /* RelativeLayout+super.swift in Sources */ = {isa = PBXBuildFile; fileRef = D851BCC61EC75C22006C1132 /* RelativeLayout+super.swift */; };
+		D884BFF51EC75DB3005E861C /* RelativeLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = D884BFEF1EC75DB3005E861C /* RelativeLayout.swift */; };
+		D884BFF61EC75DB3005E861C /* RelativeLayout+align.swift in Sources */ = {isa = PBXBuildFile; fileRef = D884BFF01EC75DB3005E861C /* RelativeLayout+align.swift */; };
+		D884BFF71EC75DB3005E861C /* RelativeLayout+center.swift in Sources */ = {isa = PBXBuildFile; fileRef = D884BFF11EC75DB3005E861C /* RelativeLayout+center.swift */; };
+		D884BFF81EC75DB3005E861C /* RelativeLayout+of.swift in Sources */ = {isa = PBXBuildFile; fileRef = D884BFF21EC75DB3005E861C /* RelativeLayout+of.swift */; };
+		D884BFF91EC75DB3005E861C /* RelativeLayout+size.swift in Sources */ = {isa = PBXBuildFile; fileRef = D884BFF31EC75DB3005E861C /* RelativeLayout+size.swift */; };
+		D884BFFA1EC75DB3005E861C /* RelativeLayout+super.swift in Sources */ = {isa = PBXBuildFile; fileRef = D884BFF41EC75DB3005E861C /* RelativeLayout+super.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,12 +35,12 @@
 		D851BCA01EC75B23006C1132 /* MGRelativeKitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MGRelativeKitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D851BCA51EC75B23006C1132 /* MGRelativeKitTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MGRelativeKitTests.swift; sourceTree = "<group>"; };
 		D851BCA71EC75B23006C1132 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D851BCC11EC75C22006C1132 /* RelativeLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RelativeLayout.swift; sourceTree = "<group>"; };
-		D851BCC21EC75C22006C1132 /* RelativeLayout+align.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RelativeLayout+align.swift"; sourceTree = "<group>"; };
-		D851BCC31EC75C22006C1132 /* RelativeLayout+center.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RelativeLayout+center.swift"; sourceTree = "<group>"; };
-		D851BCC41EC75C22006C1132 /* RelativeLayout+of.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RelativeLayout+of.swift"; sourceTree = "<group>"; };
-		D851BCC51EC75C22006C1132 /* RelativeLayout+size.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RelativeLayout+size.swift"; sourceTree = "<group>"; };
-		D851BCC61EC75C22006C1132 /* RelativeLayout+super.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RelativeLayout+super.swift"; sourceTree = "<group>"; };
+		D884BFEF1EC75DB3005E861C /* RelativeLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RelativeLayout.swift; path = Sources/RelativeLayout.swift; sourceTree = SOURCE_ROOT; };
+		D884BFF01EC75DB3005E861C /* RelativeLayout+align.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "RelativeLayout+align.swift"; path = "Sources/RelativeLayout+align.swift"; sourceTree = SOURCE_ROOT; };
+		D884BFF11EC75DB3005E861C /* RelativeLayout+center.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "RelativeLayout+center.swift"; path = "Sources/RelativeLayout+center.swift"; sourceTree = SOURCE_ROOT; };
+		D884BFF21EC75DB3005E861C /* RelativeLayout+of.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "RelativeLayout+of.swift"; path = "Sources/RelativeLayout+of.swift"; sourceTree = SOURCE_ROOT; };
+		D884BFF31EC75DB3005E861C /* RelativeLayout+size.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "RelativeLayout+size.swift"; path = "Sources/RelativeLayout+size.swift"; sourceTree = SOURCE_ROOT; };
+		D884BFF41EC75DB3005E861C /* RelativeLayout+super.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "RelativeLayout+super.swift"; path = "Sources/RelativeLayout+super.swift"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,12 +83,12 @@
 		D851BC991EC75B23006C1132 /* MGRelativeKit */ = {
 			isa = PBXGroup;
 			children = (
-				D851BCC11EC75C22006C1132 /* RelativeLayout.swift */,
-				D851BCC21EC75C22006C1132 /* RelativeLayout+align.swift */,
-				D851BCC31EC75C22006C1132 /* RelativeLayout+center.swift */,
-				D851BCC41EC75C22006C1132 /* RelativeLayout+of.swift */,
-				D851BCC51EC75C22006C1132 /* RelativeLayout+size.swift */,
-				D851BCC61EC75C22006C1132 /* RelativeLayout+super.swift */,
+				D884BFEF1EC75DB3005E861C /* RelativeLayout.swift */,
+				D884BFF01EC75DB3005E861C /* RelativeLayout+align.swift */,
+				D884BFF11EC75DB3005E861C /* RelativeLayout+center.swift */,
+				D884BFF21EC75DB3005E861C /* RelativeLayout+of.swift */,
+				D884BFF31EC75DB3005E861C /* RelativeLayout+size.swift */,
+				D884BFF41EC75DB3005E861C /* RelativeLayout+super.swift */,
 				D851BC9A1EC75B23006C1132 /* MGRelativeKit.h */,
 				D851BC9B1EC75B23006C1132 /* Info.plist */,
 			);
@@ -215,12 +215,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D851BCCB1EC75C22006C1132 /* RelativeLayout+size.swift in Sources */,
-				D851BCCA1EC75C22006C1132 /* RelativeLayout+of.swift in Sources */,
-				D851BCC71EC75C22006C1132 /* RelativeLayout.swift in Sources */,
-				D851BCCC1EC75C22006C1132 /* RelativeLayout+super.swift in Sources */,
-				D851BCC91EC75C22006C1132 /* RelativeLayout+center.swift in Sources */,
-				D851BCC81EC75C22006C1132 /* RelativeLayout+align.swift in Sources */,
+				D884BFF91EC75DB3005E861C /* RelativeLayout+size.swift in Sources */,
+				D884BFF81EC75DB3005E861C /* RelativeLayout+of.swift in Sources */,
+				D884BFF51EC75DB3005E861C /* RelativeLayout.swift in Sources */,
+				D884BFFA1EC75DB3005E861C /* RelativeLayout+super.swift in Sources */,
+				D884BFF71EC75DB3005E861C /* RelativeLayout+center.swift in Sources */,
+				D884BFF61EC75DB3005E861C /* RelativeLayout+align.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
