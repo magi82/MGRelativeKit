@@ -11,8 +11,6 @@ Simple and easy API that converts absolute to relative layout without autolayout
 
 ## Example
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
 ## Requirements
 
 ## Installation
