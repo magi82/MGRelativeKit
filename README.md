@@ -11,6 +11,106 @@ Simple and easy API that converts absolute to relative layout without autolayout
 
 ## API Reference
 
+```swift
+// ---------------------------------------------------------------------------
+
+// Position the current view to the left of the relative view.
+func leftOf(from: UIView, margin: CGFloat = 0)
+
+// Position the current view to the right of the relative view.
+func rightOf(from: UIView, margin: CGFloat = 0)
+
+// Position the current view to the top of the relative view.
+func topOf(from: UIView, margin: CGFloat = 0)
+
+// Position the current view to the bottom of the relative view.
+func bottomOf(from: UIView, margin: CGFloat = 0)
+
+// ---------------------------------------------------------------------------
+
+// Position the current view to the horizontal center of the relative view.
+func centerHorizontalOf(from: UIView)
+
+// Position the current view to the vertical center of the relative view.
+func centerVerticalOf(from: UIView)
+
+// Position the current view to the center of the relative view.
+func centerOf(from: UIView)
+
+// ---------------------------------------------------------------------------
+
+// Position the current view to the left edge of the relative view.
+func alignLeft(from: UIView, padding: CGFloat = 0)
+
+// Position the current view to the right edge of the relative view.
+func alignRight(from: UIView, padding: CGFloat = 0)
+
+// Position the current view to the top edge of the relative view.
+func alignTop(from: UIView, padding: CGFloat = 0)
+
+// Position the current view to the bottom edge of the relative view.
+func alignBottom(from: UIView, padding: CGFloat = 0)
+
+// ---------------------------------------------------------------------------
+
+// Position the current view to the left edge of the super view.
+func alignSuperLeft(padding: CGFloat = 0)
+
+// Position the current view to the right edge of the super view.
+func alignSuperRight(padding: CGFloat = 0)
+
+// Position the current view to the top edge of the super view.
+func alignSuperTop(padding: CGFloat = 0)
+
+// Position the current view to the bottom edge of the super view.
+func alignSuperBottom(padding: CGFloat = 0)
+
+// ---------------------------------------------------------------------------
+
+// Position the current view to the horizontal center of the super view.
+func centerHorizontalSuper()
+
+// Position the current view to the vertical center of the super view.
+func centerVerticalSuper()
+
+// Position the current view to the center of the super view.
+func centerInSuper()
+
+// ---------------------------------------------------------------------------
+
+// Apply the same size as the super view.
+func sizeOfSuper(margin: CGFloat = 0)
+
+// Apply the same size as the relative view.
+func sizeOf(from: UIView, margin: CGFloat = 0)
+
+// Apply custom size to the current view.
+func size(width: CGFloat, height: CGFloat)
+
+// Apply the same width size as the super view.
+func widthOfSuper()
+
+// Apply the same width size as the relative view.
+func widthOf(from: UIView)
+
+// Apply custom width size to the current view.
+func width(_ width: CGFloat)
+
+// Apply the same height size as the super view.
+func heightOfSuper()
+
+// Apply the same height size as the relative view.
+func heightOf(from: UIView)
+
+// Apply custom height size to the current view.
+func height(_ height: CGFloat)
+
+// ---------------------------------------------------------------------------
+
+// Finalize the changed layout to the current view.
+func apply()
+```
+
 ## Example
 
 ## Requirements
