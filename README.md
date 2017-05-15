@@ -139,4 +139,4 @@ magi82, bkhwang82@gmail.com
 
 ## License
 
-MGRelativeKit is available under the MIT license. See the LICENSE file for more info.
+**MGRelativeKit** is available under the MIT license. See the [LICENSE](LICENSE) file for more info.
