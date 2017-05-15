@@ -11,7 +11,7 @@ Simple and easy API that converts absolute to relative layout without autolayout
 
 ## Usage Examples
 
-#### Example 1
+### Example 1
 
 ```swift
 view1.relativeLayout
@@ -29,7 +29,7 @@ view2.relativeLayout
 
 <img src="https://github.com/magi82/MGRelativeKit/blob/master/Resources/example1.png?raw=true" width="180">
 
-#### Example 2
+### Example 2
 
 ```swift
 view1.relativeLayout
@@ -44,9 +44,9 @@ view2.relativeLayout
   .apply()
 ```
 
-#### Example 3
-
 <img src="https://github.com/magi82/MGRelativeKit/blob/master/Resources/example2.png?raw=true" width="180">
+
+### Example 3
 
 ```swift
 view1.relativeLayout
