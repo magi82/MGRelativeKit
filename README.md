@@ -111,7 +111,7 @@ func height(_ height: CGFloat)
 func apply()
 ```
 
-## Example
+## Usage Examples
 
 ## Requirements
 
