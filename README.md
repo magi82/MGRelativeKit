@@ -7,9 +7,9 @@
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![License](https://img.shields.io/cocoapods/l/MGRelativeKit.svg?style=flat)](http://cocoapods.org/pods/MGRelativeKit)
 
-Simple and easy API that converts absolute to relative layout without autolayout. :sunny:
-MGRelativekit uses the method chaining pattern to add view layouts.
-It is recommended to use the 'apply' method for perfomance.
+Simple and easy API that converts absolute to relative layout without autolayout. :sunny:<br>
+MGRelativekit uses the method chaining pattern to add view layouts.<br>
+It is recommended to use the 'apply' method for perfomance.<br>
 
 ## Usage Examples
 
