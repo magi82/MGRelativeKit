@@ -7,11 +7,11 @@
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![License](https://img.shields.io/cocoapods/l/MGRelativeKit.svg?style=flat)](http://cocoapods.org/pods/MGRelativeKit)
 
-Simple and easy API that converts absolute to relative layout without autolayout.
+Simple and easy API that converts absolute to relative layout without autolayout. :sunny:
 
 ## Usage Examples
 
-### Example 1
+- Example 1
 
 ```swift
 view1.relativeLayout
@@ -29,7 +29,7 @@ view2.relativeLayout
 
 <img src="https://github.com/magi82/MGRelativeKit/blob/master/Resources/example1.png?raw=true" width="180">
 
-### Example 2
+- Example 2
 
 ```swift
 view1.relativeLayout
@@ -46,7 +46,7 @@ view2.relativeLayout
 
 <img src="https://github.com/magi82/MGRelativeKit/blob/master/Resources/example2.png?raw=true" width="180">
 
-### Example 3
+- Example 3
 
 ```swift
 view1.relativeLayout
