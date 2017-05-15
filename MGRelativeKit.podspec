@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'MGRelativeKit'
-  s.version          = '0.1.3'
+  s.version          = '0.1.4'
   s.summary          = 'Convert absolute to relative layout without autolayout.'
   s.homepage         = 'https://github.com/magi82/MGRelativeKit'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
