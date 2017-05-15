@@ -9,6 +9,10 @@
 
 Simple and easy API that converts absolute to relative layout without autolayout. :sunny:
 
+MGRelativekit uses the method chaining pattern to add view layouts.
+
+It is recommended to use the 'apply' method for perfomance.
+
 ## Usage Examples
 
 - Example 1
