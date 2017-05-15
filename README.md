@@ -11,8 +11,6 @@ Simple and easy API that converts absolute to relative layout without autolayout
 
 ## Usage Examples
 
-<img src="https://github.com/magi82/MGRelativeKit/blob/master/Resources/example1.png?raw=true" width="180">
-
 ```swift
 view1.relativeLayout
   .size(width: 100, height: 100)
@@ -27,7 +25,7 @@ view2.relativeLayout
   .apply()
 ```
 
-<img src="https://github.com/magi82/MGRelativeKit/blob/master/Resources/example2.png?raw=true" width="180">
+<img src="https://github.com/magi82/MGRelativeKit/blob/master/Resources/example1.png?raw=true" width="180">
 
 ```swift
 view1.relativeLayout
@@ -42,7 +40,7 @@ view2.relativeLayout
   .apply()
 ```
 
-<img src="https://github.com/magi82/MGRelativeKit/blob/master/Resources/example3.png?raw=true" width="180">
+<img src="https://github.com/magi82/MGRelativeKit/blob/master/Resources/example2.png?raw=true" width="180">
 
 ```swift
 view1.relativeLayout
@@ -55,6 +53,8 @@ view2.relativeLayout
   .centerOf(from: view1)
   .apply()
 ```
+
+<img src="https://github.com/magi82/MGRelativeKit/blob/master/Resources/example3.png?raw=true" width="180">
 
 ## API Reference
 
