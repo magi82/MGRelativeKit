@@ -115,16 +115,19 @@ func apply()
 
 ## Requirements
 
+- Swift 3.0+
+- Xcode 8.0+
+- iOS 8.0+
+
 ## Installation
 
-MGRelativeKit is available through [CocoaPods](http://cocoapods.org). To install
-it, simply add the following line to your Podfile:
+- **For iOS 8+ projects** with [CocoaPods](https://cocoapods.org):
 
 ```ruby
 pod 'MGRelativeKit'
 ```
 
-Carthage:
+- **For iOS 8+ projects** with [Carthage](https://github.com/Carthage/Carthage):
 
 ```ruby
 github "magi82/MGRelativeKit"
