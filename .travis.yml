@@ -1,4 +1,4 @@
-nguage: objective-c
+language: objective-c
 osx_image: xcode8.3
 script:
   - set -o pipefail && xcodebuild test
